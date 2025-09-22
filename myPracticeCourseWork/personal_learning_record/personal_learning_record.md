@@ -7,7 +7,7 @@
 | Student Number |Q103125471 |
 | Student Email |0whits71@solent.ac.uk |
 | Github Account Username |ShaunW23 |
-| Github Submission Repository URL |https://github.com/ShaunW23/COM304_FOUNDATION_1/edit/main/myPracticeCourseWork/personal_learning_record/personal_learning_record.md |
+| Github Submission Repository URL |[https://github.com/ShaunW23/COM304_FOUNDATION_1/edit/main/myPracticeCourseWork/personal_learning_record/personal_learning_record.md](https://github.com/ShaunW23/COM304_FOUNDATION_1) |
 
 ## Introduction
 
