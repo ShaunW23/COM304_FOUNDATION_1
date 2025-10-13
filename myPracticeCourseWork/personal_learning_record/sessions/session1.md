@@ -4,27 +4,22 @@
 
 ## Topics covered
 
-*What topics were covered in this ses
+Copy word doc to here 
 
 
 
 ## Personal Notes and research following this session
-
-*Which class sessions and personal research refers to technology in this proposal. Link to examples.*
+Copy word doc to here 
 
 
 
 ## Exercises and results
 
-*What exercises did you complete. What results. Screen shots and notes*
+Copy word doc to here 
 
 
 
 ## Summary of learning
 
-*What did you learn through these exercises*
-
-
-
-*using git*
+Copy word doc to here 
 
