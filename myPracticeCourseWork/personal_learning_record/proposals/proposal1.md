@@ -5,7 +5,7 @@
 ## Explanation of this proposal
 *What do you think this proposal might mean? How might it be implemented?*
 
-[What is Hot Desking — and How Can You Implement It?](https://www.accruent.com/resources/knowledge-hub/what-is-hot-desking%20%20What%20is%20Hot%20Desking%20%E2%80%94%20and%20How%20Can%20You%20Implement%20It?)
+[What is Hot Desking — and How Can You Implement It? Accurent accessed 2025 ](https://www.accruent.com/resources/knowledge-hub/what-is-hot-desking)
 
 ## Technologies and research relevant to this proposal
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
