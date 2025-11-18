@@ -7,6 +7,8 @@
 
 [What is Hot Desking — and How Can You Implement It? Accurent accessed 2025 ](https://www.accruent.com/resources/knowledge-hub/what-is-hot-desking)
 
+[Nguyen, N.N., Varsani, K.V., Avgoulas, M.I., Carey, C., Drakopoulos, T. and Carey, L., 2024. The Effects of ‘Hot-desking’on Staff Morale: An Exploratory Literature Scoping Review.](https://opal.latrobe.edu.au/articles/report/The_Effects_of_Hot-desking_on_Staff_Morale_An_Exploratory_Literature_Scoping_Review/26877511/2/files/48895486.pdf)
+
 ## Technologies and research relevant to this proposal
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
 
