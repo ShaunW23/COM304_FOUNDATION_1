@@ -3,7 +3,15 @@
 # Session 7
 
 ## Topics covered
-*What topics were covered in this session*
+⇛ History of Linux
+
+⇛ Kernel and user code
+
+⇛ Package management
+
+⇛ Basic commands
+
+⇛ Installing Apache2 web server
 
 
 
