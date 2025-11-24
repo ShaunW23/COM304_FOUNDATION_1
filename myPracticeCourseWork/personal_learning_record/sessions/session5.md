@@ -3,7 +3,11 @@
 # Session 5
 
 ## Topics covered
-*What topics were covered in this session*
+⇛ Introduction to computer languages
+
+⇛ Assembler
+
+⇛ C language
 
 
 
