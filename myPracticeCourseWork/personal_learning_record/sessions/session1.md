@@ -46,10 +46,15 @@ We created a Github account and forked a repository containing all learning mate
 
 
 ----------------------------------------------------------
-We set up a RaspberryPi computer connecting all the peripherals to it such as the monitor, keyboard and mouse. To install the Raspberry Pi OS on the device we put the Pi imager on an SD card,
+We set up a RaspberryPi computer connecting all the peripherals to it such as the monitor, keyboard and mouse. To install the Raspberry Pi OS on the device we put the Pi imager on an SD card and inserted it into the Pi and successfully installed PiOS.
 
 ![image alt](https://github.com/ShaunW23/COM304_FOUNDATION_1/blob/6209b225db55e7053da2c670abe0723fe306aa6f/myPracticeCourseWork/personal_learning_record/images/PIos%20.png)
 -------------------------------------------------
+
+When we reached the Pi desktop we then connected to the wifi 
+We opened up the terminal and pinged the other Raspberry Pis on the network 
+we used "ping" and the IP address of another Pi
+
 
 
 
