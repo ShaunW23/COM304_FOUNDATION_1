@@ -4,7 +4,9 @@
 
 ## Topics covered
 ⇛ Introduction to computer architecture
+
 ⇛ Binary, bytes and Boolean algebra
+
 ⇛ Looking at memory in a pi
 
 
