@@ -22,6 +22,18 @@ Raspberry Pi computers have been used beyond just the education space theyre als
 
 The raspberry Pi is well known and widely used for its affordablity, programmabiliy in addition to the number of hardware components specially made to be added on to the Pi increasing its capabilities 
 
+![image alt](https://github.com/ShaunW23/COM304_FOUNDATION_1/blob/3215391aa0407464192bc0351fc55af2e11f8665/myPracticeCourseWork/personal_learning_record/images/raspberry-pi-4-labelled-f5e5dcdf6a34223235f83261fa42d1e8-1776845166.png)
+---------------------------------------------
+![image alt](https://github.com/ShaunW23/COM304_FOUNDATION_1/blob/3215391aa0407464192bc0351fc55af2e11f8665/myPracticeCourseWork/personal_learning_record/images/raspberry-pi-zero-2-starter-kit-the-pi-hut-30207715508419-139660532.jpg)
+
+This is one of the smallest and cheapest Pi model 
+the Raspberry Pi zero 2
+
+------------------------------------------------
+---------------------------------------------
+![image alt](https://github.com/ShaunW23/COM304_FOUNDATION_1/blob/3215391aa0407464192bc0351fc55af2e11f8665/myPracticeCourseWork/personal_learning_record/images/touch-screen-kiosk-with-multi-platform-remote-control-web-v0-n8ka5zu2wg7a1-1577441188.jpg)
+A Raspberry Pi being used in a shopping centre kiosk 
+
 
 
 ## Exercises and results
@@ -36,14 +48,7 @@ We set up a RaspberryPi computer connecting all the peripherals to it such as th
 
 ![image alt](https://github.com/ShaunW23/COM304_FOUNDATION_1/blob/6209b225db55e7053da2c670abe0723fe306aa6f/myPracticeCourseWork/personal_learning_record/images/PIos%20.png)
 -------------------------------------------------
-![image alt](https://github.com/ShaunW23/COM304_FOUNDATION_1/blob/3215391aa0407464192bc0351fc55af2e11f8665/myPracticeCourseWork/personal_learning_record/images/raspberry-pi-4-labelled-f5e5dcdf6a34223235f83261fa42d1e8-1776845166.png)
----------------------------------------------
-![image alt](https://github.com/ShaunW23/COM304_FOUNDATION_1/blob/3215391aa0407464192bc0351fc55af2e11f8665/myPracticeCourseWork/personal_learning_record/images/raspberry-pi-zero-2-starter-kit-the-pi-hut-30207715508419-139660532.jpg)
-This is one of the smallest and cheapest Pi model 
-the Raspberry Pi zero 2
-------------------------------------------------
-![image alt](https://github.com/ShaunW23/COM304_FOUNDATION_1/blob/3215391aa0407464192bc0351fc55af2e11f8665/myPracticeCourseWork/personal_learning_record/images/touch-screen-kiosk-with-multi-platform-remote-control-web-v0-n8ka5zu2wg7a1-1577441188.jpg)
-A Raspberry Pi being used in a shopping centre kiosk 
+
 
 
 ## Summary of learning
