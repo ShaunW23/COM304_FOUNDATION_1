@@ -20,6 +20,8 @@ Copy word doc to here
 
 We created a Github account and forked a repository containing all learning material and is going to be the place where we write and store our class notes 
 
+![image alt](https://github.com/ShaunW23/COM304_FOUNDATION_1/blob/981e510ca7c16dccf808f70943e8477fb5c93cb4/myPracticeCourseWork/personal_learning_record/images/Github.png)
+
 
 
 
