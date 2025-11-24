@@ -3,7 +3,10 @@
 # Session 3
 
 ## Topics covered
-*What topics were covered in this session*
+Microprocessor IO architecture
+Accessing Pi GPIO
+Node RED
+WiringPi
 
 
 
