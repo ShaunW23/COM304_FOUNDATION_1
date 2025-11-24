@@ -3,7 +3,11 @@
 # Session 6
 
 ## Topics covered
-*What topics were covered in this session*
+⇛ Introduction to operating systems
+
+⇛ Virtual Memory
+
+⇛ Interrupts and Scheduling
 
 
 
