@@ -20,7 +20,7 @@ Copy word doc to here
 
 We created a Github account and forked a repository containing all learning material and is going to be the place where we write and store our class notes 
 
-https://github.com/ShaunW23/COM304_FOUNDATION_1/blob/main/myPracticeCourseWork/personal_learning_record/images/Github.png
+
 
 
 
