@@ -16,6 +16,12 @@
 
 The Raspberry Pi OS is based on the Debian linux distribution.
 
+A Raspberry Pi computer is a single board credit card sized computer, it was originally created for education being used in schools as an affordable and accessible way of learning about computers and programming. 
+
+Raspberry Pi computers have been used beyond just the education space theyre also now being used for DIY  projects by beginners and experienced tinkerers creating things like media centres and being used in robotics. 
+
+The raspberry Pi is well known and widely used for its affordablity, programmabiliy in addition to the number of hardware components specially made to be added on to the Pi increasing its capabilities 
+
 
 
 ## Exercises and results
