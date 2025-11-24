@@ -3,7 +3,9 @@
 # Session 8
 
 ## Topics covered
-*What topics were covered in this session*
+⇛ Introduction to networking
+
+⇛ Using networking utilities on Linux
 
 
 
