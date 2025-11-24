@@ -14,6 +14,8 @@
 ## Personal Notes and research following this session
 "Fork" means to create a personal copy of a repository which is stored on a personal account. Any Modifications to the copy will not transfer to the original.
 
+Raspberry Pi
+---------------------------------------------------
 The Raspberry Pi OS is based on the Debian linux distribution.
 
 A Raspberry Pi computer is a single board credit card sized computer, it was originally created for education being used in schools as an affordable and accessible way of learning about computers and programming. 
