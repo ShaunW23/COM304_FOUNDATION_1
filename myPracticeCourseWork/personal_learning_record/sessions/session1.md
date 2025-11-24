@@ -14,6 +14,7 @@
 ## Personal Notes and research following this session
 "Fork" means to create a personal copy of a repository which is stored on a personal account. Any Modifications to the copy will not transfer to the original.
 
+The Raspberry Pi OS is based on the Debian linux distribution.
 
 
 
@@ -24,9 +25,10 @@ We created a Github account and forked a repository containing all learning mate
 ![image alt](https://github.com/ShaunW23/COM304_FOUNDATION_1/blob/981e510ca7c16dccf808f70943e8477fb5c93cb4/myPracticeCourseWork/personal_learning_record/images/Github.png)
 
 
+----------------------------------------------------------
 We set up a RaspberryPi computer connecting all the peripherals to it such as the monitor, keyboard and mouse. To install the Raspberry Pi OS on the device we put the Pi imager on an SD card,
 
-![image alt]
+![image alt](https://github.com/ShaunW23/COM304_FOUNDATION_1/blob/6209b225db55e7053da2c670abe0723fe306aa6f/myPracticeCourseWork/personal_learning_record/images/PIos%20.png)
 
 
 
