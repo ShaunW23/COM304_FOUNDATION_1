@@ -14,6 +14,8 @@
 ## Personal Notes and research following this session
 "Fork" means to create a personal copy of a repository which is stored on a personal account. Any Modifications to the copy will not transfer to the original.
 
+Github is where software developers can create and share code 
+
 Raspberry Pi
 ---------------------------------------------------
 The Raspberry Pi OS is based on the Debian linux distribution.
