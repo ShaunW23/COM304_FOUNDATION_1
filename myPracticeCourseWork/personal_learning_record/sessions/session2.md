@@ -12,7 +12,13 @@
 
 
 ## Personal Notes and research following this session
-Copy word doc to here 
+Computer Labelled 
+
+![image alt](https://github.com/ShaunW23/COM304_FOUNDATION_1/blob/6a72bdee24f246b4595070745861c4c64174b097/myPracticeCourseWork/personal_learning_record/images/comp%20arc3.jpg)
+
+--
+![image alt](https://github.com/ShaunW23/COM304_FOUNDATION_1/blob/6a72bdee24f246b4595070745861c4c64174b097/myPracticeCourseWork/personal_learning_record/images/comp%20arc2.jpg)
+
 
 
 
