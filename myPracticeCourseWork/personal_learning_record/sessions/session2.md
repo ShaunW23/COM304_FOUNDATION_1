@@ -17,7 +17,9 @@ Copy word doc to here
 
 
 ## Exercises and results
-Copy word doc to here 
+In class we looked inside three different computers and observed and located all the different components 
+
+
 
 
 
