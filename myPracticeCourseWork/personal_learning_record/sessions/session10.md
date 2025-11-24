@@ -3,7 +3,9 @@
 # Session 10
 
 ## Topics covered
-*What topics were covered in this session*
+⇛ Internet history
+
+⇛ Introduction to the cloud
 
 
 
