@@ -12,7 +12,7 @@
 
 
 ## Personal Notes and research following this session
-Copy word doc to here 
+"Fork" means to create a personal copy of a repository which is stored on a personal account where we can modify it as well.
 
 
 
@@ -28,5 +28,5 @@ We created a Github account and forked a repository containing all learning mate
 
 ## Summary of learning
 
-Copy word doc to here 
+In this session i learnt what Github is, its use cases and who its used by. It was my first time using Github i learnt how to navigate the site and discovered the numerous different features it has 
 
