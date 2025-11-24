@@ -53,7 +53,7 @@ We set up a RaspberryPi computer connecting all the peripherals to it such as th
 
 When we reached the Pi desktop we then connected to the wifi 
 We opened up the terminal and pinged the other Raspberry Pis on the network 
-we used "ping" and the IP address of another Pi
+we used "ping" and the IP address of another Pi to do this
 
 
 
