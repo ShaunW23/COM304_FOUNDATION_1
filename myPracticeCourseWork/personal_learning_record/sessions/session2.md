@@ -3,7 +3,9 @@
 # Session 2
 
 ## Topics covered
-Copy word doc to here 
+⇛ Introduction to computer architecture
+⇛ Binary, bytes and Boolean algebra
+⇛ Looking at memory in a pi
 
 
 
