@@ -30,7 +30,7 @@ The raspberry Pi is well known and widely used for its affordablity, programmabi
 ---------------------------------------------
 ![image alt](https://github.com/ShaunW23/COM304_FOUNDATION_1/blob/3215391aa0407464192bc0351fc55af2e11f8665/myPracticeCourseWork/personal_learning_record/images/raspberry-pi-zero-2-starter-kit-the-pi-hut-30207715508419-139660532.jpg)
 
-This is one of the smallest and cheapest Pi model 
+This is one of the smallest and cheapest form factor Pi model 
 the Raspberry Pi zero 2
 
 ------------------------------------------------
