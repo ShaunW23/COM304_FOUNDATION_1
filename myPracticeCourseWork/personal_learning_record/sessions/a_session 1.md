@@ -16,6 +16,10 @@
 
 Github is where software developers can create and share code 
 
+History of computers
+---
+In the mid 20th century computers were actually humans with most of them being women
+
 Raspberry Pi
 ---------------------------------------------------
 The Raspberry Pi OS is based on the Debian linux distribution.
