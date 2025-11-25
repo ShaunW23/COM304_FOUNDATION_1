@@ -12,13 +12,21 @@
 
 
 ## Personal Notes and research following this session
-"Fork" means to create a personal copy of a repository which is stored on a personal account. Any Modifications to the copy will not transfer to the original.
+"Fork" means to create a personal copy of a repository which is stored on a personal account. Any Modifications to the copy will not transfer to the originalBut the branch can be updated to include new content of the original
 
 Github is where software developers can create and share code 
 
 History of computers
 ---
 In the mid 20th century computers were actually humans with most of them being women 
+
+[histroyv of computing - BBC Bitesize](https://www.bbc.co.uk/bitesize/articles/ztrq7ty)
+
+The very first appearance of the computer in human history was seen in 1833 with a man called Charles Babbage who was a mathematician and inventer he designed the Analytical engine 
+its function was to do calculations with different sets of numbers and was actually powered by steam!
+
+Another key figure who contributed to the development of early computers was a women called Ada Lovelace who was a mathematician having a keen interest in solving puzzles. She studied the plans of babbage 
+
 
 Raspberry Pi
 ---------------------------------------------------
@@ -34,7 +42,7 @@ The raspberry Pi is well known and widely used for its affordablity, programmabi
 ---------------------------------------------
 ![image alt](https://github.com/ShaunW23/COM304_FOUNDATION_1/blob/3215391aa0407464192bc0351fc55af2e11f8665/myPracticeCourseWork/personal_learning_record/images/raspberry-pi-zero-2-starter-kit-the-pi-hut-30207715508419-139660532.jpg)
 
-This is one of the smallest and cheapest form factor Pi model 
+This is one of the smallest and cheapest form factor Pi models
 the Raspberry Pi zero 2
 
 ------------------------------------------------
@@ -66,5 +74,7 @@ we used "ping" and the IP address of another Pi to do this
 
 ## Summary of learning
 
-In this session i learnt what Github is, its use cases and who its used by. It was my first time using Github i learnt how to navigate the site and discovered the numerous different features it has 
+In this session i learnt what Github is, its use cases and who its used by. It was my first time using Github i learnt how to navigate the site and discovered the numerous different features it has
+
+We were introduced to the Raspberry Pi I learnt how to install PiOS on the Raspberry Pi
 
