@@ -20,7 +20,7 @@ History of computers
 ---
 In the mid 20th century computers were actually humans with most of them being women 
 
-[histroyv of computing - BBC Bitesize]([https://www.bbc.co.uk/bitesize/articles/ztrq7ty](https://ieeexplore.ieee.org/abstract/document/10224784))
+[histroyv of computing - IEEE Xplore(https://ieeexplore.ieee.org/abstract/document/10224784)
 
 The very first appearance of the computer in human history was seen in 1833 with a man called Charles Babbage who was a mathematician and inventer he designed the Analytical engine 
 its function was to do calculations with different sets of numbers and was actually powered by steam!
