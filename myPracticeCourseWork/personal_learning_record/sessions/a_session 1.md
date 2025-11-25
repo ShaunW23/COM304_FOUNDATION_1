@@ -25,7 +25,7 @@ histroy of computing - IEEE Xplore(https://ieeexplore.ieee.org/abstract/document
 The very first appearance of the computer in human history was seen in 1833 with a man called Charles Babbage who was a mathematician and inventer he designed the Analytical engine 
 its function was to do calculations with different sets of numbers and was actually powered by steam!
 
-Another key figure who contributed to the development of early computers was a women called Ada Lovelace who was a mathematician having a keen interest in solving puzzles. She studied the plans of babbage for the Analytical engine and made notes on potential use cases for it these notes are recognised as the first programming lanuage in history
+Another key figure who contributed to the development of early computers was a women called Ada Lovelace who was a mathematician having a keen interest in solving puzzles. She studied the plans of babbage for the Analytical engine and made notes on potential use cases for it these notes are recognised as the first computer program in history
 
 Ada was a programming lanuage invented in the 90s, it was named Ada to honour Ada lovelace 
 
