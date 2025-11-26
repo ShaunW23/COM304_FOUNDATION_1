@@ -16,7 +16,10 @@
 
 ---
 
- I have a level 3 Computer systems qualification which gave me the knowledge of the basics and fundamentals of hardware and software. On my current desktop PC Im running Linux Mint OS, have done for almost a year im still learning bash commands. I installed linux because i wanted to give myself a challenge to learn something new and useful and simply to learn more about computers.
+ I have a level 3 Computer systems qualification which gave me the knowledge of the basics and fundamentals of hardware and software. i decided to do a foundation year because i think it will give me a chance to brush up on my knowledge and a chance to gain more knowledge  Also it will help me aquire good learning habits and ease me back into education after not being in education for 6 years 
+ 
+ 
+ On my current desktop PC Im running Linux Mint OS, have done for almost a year im still learning bash commands. I installed linux because i wanted to give myself a challenge to learn something new and useful and simply to learn more about computers.
 
 
 I recently bought an asus laptop which is running Windows so that gives access to Microsoft services 
