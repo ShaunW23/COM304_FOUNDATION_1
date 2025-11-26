@@ -33,6 +33,6 @@
 
  What im hoping to learn from this module is to get more familiar with computing terminologies and have them more concrete in mind rather than forgetting what they mean and the things associated with them
 
- I want to learn a bit about Raspberry Pi computers id like to use and play about with a Pi in class 
+ I want to learn a bit about Raspberry Pi computers id like to use and play around with a Pi in class 
 
  im interested in the networking section as my degree pathway is going to be network engineering
