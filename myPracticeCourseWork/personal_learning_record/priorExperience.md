@@ -19,7 +19,7 @@
  I have a level 3 Computer systems qualification which gave me the knowledge of the basics and fundamentals of hardware and software. On my current desktop PC Im running Linux Mint OS, have done for almost a year im still learning bash commands. I installed linux because i wanted to give myself a challenge to learn something new and useful and simply to learn more about computers.
 
 
-I recently bought an asus laptop which is running Windows 
+I recently bought an asus laptop which is running Windows so that gives access to Microsoft services 
 
  Ive mostly used Windows for most of my life ive had more experience with it and know my way round it better compared to other operating systems 
 
