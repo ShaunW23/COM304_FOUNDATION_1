@@ -21,7 +21,7 @@
 
 I recently bought an asus laptop which is running Windows 
 
- Ive mostly used Windows for most of my life ive had more experience with it and i know my way round it compared to other operating systems 
+ Ive mostly used Windows for most of my life ive had more experience with it and know my way round it better compared to other operating systems 
 
  I have experience using MacOS i owned a macbook for a couple years but decided to back to windows because  of better services and app avaliablity compared to any other OS 
  
