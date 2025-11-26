@@ -22,6 +22,6 @@
 
  I have experience using MacOS i owned a macbook for a couple years but decided to back to windows because  of better services and app avaliablity compared to any other OS 
  
- Another reason i decided to go to Windows is simply to become more conpetent and comfortable with it as most jobs use Windows and other Microsoft services nowadays and having good knowledge on these are desirable
+ Another reason i decided to go to Windows is simply to become more conpetent and comfortable with it as most jobs use Windows and other Microsoft services nowadays and having good knowledge on these is desirable
 
  i have experience using most of the microsoft 365 apps such as Teams, word, powerpoint, Excel, onedrive etc...
