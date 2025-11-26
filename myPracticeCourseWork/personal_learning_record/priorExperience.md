@@ -16,7 +16,7 @@
 
 ---
 
- I have a level 3 Computer systems qualification which gave me the knowledge of the basics and fundamentals of hardware and software. On my current desktop PC Im running Linux Mint OS, have done for almost a year im still learning bash commands. I installed linux because i wanted to give myself a challenge to learn something new and useful simply to learn more about computers.
+ I have a level 3 Computer systems qualification which gave me the knowledge of the basics and fundamentals of hardware and software. On my current desktop PC Im running Linux Mint OS, have done for almost a year im still learning bash commands. I installed linux because i wanted to give myself a challenge to learn something new and useful and simply to learn more about computers.
 
  Ive mostly used Windows for most of my life ive had more experience with it and i know my way round it compared to other operating systems 
 
@@ -25,3 +25,14 @@
  Another reason i decided to go to Windows is simply to become more conpetent and comfortable with it as most jobs use Windows and other Microsoft services nowadays and having good knowledge on these is desirable
 
  i have experience using most of the microsoft 365 apps such as Teams, word, powerpoint, Excel, onedrive etc...
+
+ I know roughly what most computer conponents do and where they are located inside of a PC 
+
+ Things I'd like to learn
+ ---
+
+ What im hoping to learn from this module is to get more familiar with computing terminologies and have them more concrete in mind rather than forgetting what they mean and the things associated with them
+
+ I want to learn a bit about Raspberry Pi computers id like to use and play about with a Pi in class 
+
+ im interested in the networking section as my degree pathway is going to be network engineering
