@@ -1,4 +1,4 @@
-# Council Proposal 2
+# Council Proposal 3
 
 ## Explanation of this proposal
 *What do you think this proposal might mean? How might it be implemented?*
