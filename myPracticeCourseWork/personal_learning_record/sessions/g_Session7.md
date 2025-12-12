@@ -43,8 +43,21 @@ Today around 85% of smartphones are running Linux
 
 
 ## Exercises and results
-*What exercises did you complete. What results. Screen shots and notes*
+We installed Apache2 onto a Raspberry Pi using the Command "sudo apt install apache2".
 
+when we ran the Apache server we used the commands to initiate the services in the background
+
+- sudo systemctl start apache2.service ## starts the web server
+
+- sudo systemctl stop apache2.service  ## stop the web server
+
+- sudo systemctl enable apache2.service # makes the web server start every time the pi is booted
+
+- sudo systemctl disable apache2.service # prevents the web server starting automatically on reboot
+
+to ensure the services are still running we used 
+- sudo systemctl status apache2.service
+which gave us an output allowing us to see what services are still running
 
 
 ## Summary of learning
