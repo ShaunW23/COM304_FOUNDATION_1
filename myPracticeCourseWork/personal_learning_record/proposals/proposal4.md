@@ -1,6 +1,6 @@
 [Personal Learning Record](../../personal_learning_record/personal_learning_record.md) | [IT Proposals](../proposals/README.md) 
 
-# Council Proposal 4
+# Council Proposal 4 - A proposal to use Raspberry PI's as IoT devices for counting people in and out of the libraries and museums.
 
 ## Explanation of this proposal
 *What do you think this proposal might mean? How might it be implemented?*
