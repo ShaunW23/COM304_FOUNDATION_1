@@ -1,6 +1,6 @@
 [Personal Learning Record](../../personal_learning_record/personal_learning_record.md) | [IT Proposals](../proposals/README.md) 
 
-# Council Proposal 9
+# Council Proposal 9 - A proposal to harden the council's security stance against cyber crime.
 
 ## Explanation of this proposal
 *What do you think this proposal might mean? How might it be implemented?*
