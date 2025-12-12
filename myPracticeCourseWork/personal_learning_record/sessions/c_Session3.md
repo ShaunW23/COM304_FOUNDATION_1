@@ -14,12 +14,21 @@
 
 
 ## Personal Notes and research following this session
-*Which class sessions and personal research refers to technology in this proposal. Link to examples.*
+- Node-RED is a visual programming software where a canvas is presented and instead of traditional lines of code it uses visual nodes that can be wired together to create functions and eventually appllications. It has a clear user friendly interface.
+
+- Node-RED is built on javascript. It can run on most devices like PCs, routers and even on smaller devices like the Raspberry Pi as ive deminstrated in lesson
+
+- Node-RED is widely used for Home automation for its ease of use because of its low code and things like sensor data can be collected and sent to specific places on the cloud 
+
+[Information about Node-RED](https://en.wikipedia.org/wiki/Node-RED)
+
 
 
 
 ## Exercises and results
-*What exercises did you complete. What results. Screen shots and notes*
+Video of the traffic lights working at bottom of page
+
+playing around and configuring the nodes on Node-RED were we able to light up each LED in the correct sequence 
 
 ## Images from class
 ![image alt](https://github.com/ShaunW23/COM304_FOUNDATION_1/blob/2d7d9bf19ad8f1bec9f239372a274ee86ca48a54/myPracticeCourseWork/personal_learning_record/images/IMG_4909.jpeg)
@@ -44,4 +53,8 @@ https://github.com/user-attachments/assets/79616154-f525-4c5b-bc2f-8adc8e8544b3
 
 
 ## Summary of learning
-*What did you learn through these exercises*
+- I learnt what Node-RED is, and got to use and navigate the software to actually make something function, going from the nodes on screen to seeing the LEDs light up in order i thought was cool 
+
+- After this session i learnt that i could actually use Node-RED for personal use like setting up home automation.
+
+- Ive learnt what thet GPIO is used for and what happens when certain things are plugged into certain pins
