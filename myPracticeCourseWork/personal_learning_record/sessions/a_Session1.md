@@ -75,7 +75,9 @@ we used "ping" and the IP address of another Pi to do this
 
 ## Summary of learning
 
-In this session i learnt what Github is, its use cases and who its used by. It was my first time using Github i learnt how to navigate the site and discovered the numerous different features it has
+➟In this session i learnt what Github is, its use cases and who its used by. It was my first time using Github i learnt how to navigate the site and discovered the numerous different features it has
 
-We were introduced to the Raspberry Pi I learnt how to install PiOS on the Raspberry Pi
+➟We were introduced to the Raspberry Pi I learnt how to install PiOS on the Raspberry Pi
+
+➟ I learnt what computers looked like throughout history like the earliest computer being invented by Charles Babbage. Anolog and later electronic computers in the 1940s being massive and taking up a good portion of the room, Colossus being the electronic computer used in 1943
 
