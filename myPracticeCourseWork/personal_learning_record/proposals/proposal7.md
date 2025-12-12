@@ -1,6 +1,6 @@
 [Personal Learning Record](../../personal_learning_record/personal_learning_record.md) | [IT Proposals](../proposals/README.md) 
 
-# Council Proposal 7
+# Council Proposal 7 - A proposal to move away from using traditional programming towards a low-code/no-code programming paradigm and agile project management methodologies.
 
 ## Explanation of this proposal
 *What do you think this proposal might mean? How might it be implemented?*
