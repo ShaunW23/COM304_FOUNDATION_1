@@ -43,4 +43,4 @@ In class we looked inside three different computers and observed and located all
 
 
 ## Summary of learning
-Copy word doc to here 
+➟ We got the chance to look inside different computers like Desktop PCs and server blades 
