@@ -2,6 +2,12 @@
 
 # Session 8
 
+This session was for compiling and consolidating notes.
+
+
+
+---
+
 ## Topics covered
 
 
