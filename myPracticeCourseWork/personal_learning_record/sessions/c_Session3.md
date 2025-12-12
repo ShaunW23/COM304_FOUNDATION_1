@@ -22,6 +22,9 @@
 
 [Information about Node-RED](https://en.wikipedia.org/wiki/Node-RED)
 
+[A site ive read through to understand abit more about GPIOs](https://docs.nanoframework.net/content/getting-started-guides/gpio-explained.html)
+
+[ A site that talks more about Node-RED and how it can be used with a Raspberry Pi](https://www.sunfounder.com/blogs/news/raspberry-pi-node-red-tutorial-from-installation-to-automation)
 
 
 
@@ -57,4 +60,4 @@ https://github.com/user-attachments/assets/79616154-f525-4c5b-bc2f-8adc8e8544b3
 
 - After this session i learnt that i could actually use Node-RED for personal use like setting up home automation.
 
-- Ive learnt what thet GPIO is used for and what happens when certain things are plugged into certain pins
+- Ive learnt what the GPIO is used for and what happens when certain things are plugged into certain pins of the 40 pim unit connected to the GPIO, each pin recieving an input or output
