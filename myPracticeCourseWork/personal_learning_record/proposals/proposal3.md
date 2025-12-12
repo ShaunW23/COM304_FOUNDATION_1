@@ -1,7 +1,7 @@
 [Personal Learning Record](../../personal_learning_record/personal_learning_record.md) | [IT Proposals](../proposals/README.md) 
 
 
-# Council Proposal 3
+# Council Proposal 3 - A proposal to allow counsellors to work from home and connect to the councils systems using a VPN.
 
 ## Explanation of this proposal
 *What do you think this proposal might mean? How might it be implemented?*
