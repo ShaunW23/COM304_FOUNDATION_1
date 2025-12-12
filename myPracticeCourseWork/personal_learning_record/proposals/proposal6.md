@@ -1,6 +1,6 @@
 [Personal Learning Record](../../personal_learning_record/personal_learning_record.md) | [IT Proposals](../proposals/README.md) 
 
-# Council Proposal 6
+# Council Proposal 6 - A proposal to make the council's web site and a council App the primary gateways for the public to engage with council services (digital first).
 
 ## Explanation of this proposal
 *What do you think this proposal might mean? How might it be implemented?*
