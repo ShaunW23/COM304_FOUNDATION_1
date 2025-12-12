@@ -14,15 +14,15 @@ Use  screen shots and / or code samples as appropriate.
 |  Session                                | Topics                                                                 |
 |:----------------------------------------|:-----------------------------------------------------------------------|
 | [Session&nbsp;1](../sessions/a_Session1.md) |                                                                      |
-| [Session&nbsp;2](../sessions/b_session2.md) |                                                                      |
-| [Session&nbsp;3](../sessions/c_session3.md) |                                                                      |
-| [Session&nbsp;4](../sessions/session4.md) |                                                                      |
-| [Session&nbsp;5](../sessions/session5.md) |                                                                      |
-| [Session&nbsp;6](../sessions/session6.md) |                                                                      |
-| [Session&nbsp;7](../sessions/session7.md) |                                                                      |
-| [Session&nbsp;8](../sessions/session8.md) |                                                                      |
-| [Session&nbsp;9](../sessions/session9.md) |                                                                      |
-| [Session&nbsp;10](../sessions/session10.md) |                                                                    |
-| [Session&nbsp;11](../sessions/session11.md) |                                                                    |
-| [Session&nbsp;12](../sessions/session12.md) |                                                                    |
+| [Session&nbsp;2](../sessions/b_Session2.md) |                                                                      |
+| [Session&nbsp;3](../sessions/c_Session3.md) |                                                                      |
+| [Session&nbsp;4](../sessions/d_Session4consolidate.md) |                                                                      |
+| [Session&nbsp;5](../sessions/e_Session5.md) |                                                                      |
+| [Session&nbsp;6](../sessions/f_Session6.md) |                                                                      |
+| [Session&nbsp;7](../sessions/g_Session7.md) |                                                                      |
+| [Session&nbsp;8](../sessions/h_session8consolidate.md) |                                                                      |
+| [Session&nbsp;9](../sessions/i_Session9.md) |                                                                      |
+| [Session&nbsp;10](../sessions/j_Session10.md) |                                                                    |
+| [Session&nbsp;11](../sessions/k_Session11consolidate.md) |                                                                    |
+| [Session&nbsp;12](../sessions/l_Session12consolidate.md) |                                                                    |
 |                                             |                                                                    |
