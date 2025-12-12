@@ -1,6 +1,6 @@
 [Personal Learning Record](../../personal_learning_record/personal_learning_record.md) | [IT Proposals](../proposals/README.md) 
 
-# Council Proposal 2
+# Council Proposal 2 - A proposal to move software running in the server room into the cloud.
 
 ## Explanation of this proposal
 *What do you think this proposal might mean? How might it be implemented?*
