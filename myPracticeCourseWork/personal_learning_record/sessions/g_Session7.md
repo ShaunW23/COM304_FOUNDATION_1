@@ -20,6 +20,11 @@
 
 [Orgin story of Linux and its widespread adoption thoughtout the years across different industries](https://thelinuxcode.com/history-of-linux/)
 
+[A cheatsheet on Linux commands](https://www.geeksforgeeks.org/linux-unix/linux-commands-cheat-sheet/)
+
+[Another clear cheat sheet for bash commands](https://www.fosslinux.com/132925/50-bash-commands-cheat-sheet.htm) 
+
+
 
 
 ## Exercises and results
