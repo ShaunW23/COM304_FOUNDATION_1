@@ -2,6 +2,11 @@
 
 # Session 12
 
+This session was for compiling and consolidating notes.
+
+
+---
+
 ## Topics covered
 *What topics were covered in this session*
 
