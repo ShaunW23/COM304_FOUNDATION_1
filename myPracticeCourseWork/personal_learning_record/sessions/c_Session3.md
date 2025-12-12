@@ -37,6 +37,7 @@
 ![image alt](https://github.com/ShaunW23/COM304_FOUNDATION_1/blob/2d7d9bf19ad8f1bec9f239372a274ee86ca48a54/myPracticeCourseWork/personal_learning_record/images/IMG_4915.jpeg)
 
 ## Video of Traffic lights working
+https://github.com/user-attachments/assets/79616154-f525-4c5b-bc2f-8adc8e8544b3
 
 
 
