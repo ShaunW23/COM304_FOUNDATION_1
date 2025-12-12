@@ -13,10 +13,10 @@ Use  screen shots and / or code samples as appropriate.
 
 |  Session                                | Topics                                                                 |
 |:----------------------------------------|:-----------------------------------------------------------------------|
-| [Session&nbsp;1](../sessions/a_Session1.md) |                                                                      |
-| [Session&nbsp;2](../sessions/b_Session2.md) |                                                                      |
-| [Session&nbsp;3](../sessions/c_Session3.md) |                                                                      |
-| [Session&nbsp;4](../sessions/d_Session4consolidate.md) |                                                                      |
+| [Session&nbsp;1](../sessions/a_Session1.md) |  ➟ History of computing  ➟ Introduction to Github  ➟ Getting started with a raspberry pi                                                                    |
+| [Session&nbsp;2](../sessions/b_Session2.md) |⇛ Introduction to computer architecture  ⇛ Binary, bytes and Boolean algebra  ⇛ Looking at memory in a pi                                                                     |
+| [Session&nbsp;3](../sessions/c_Session3.md) | ⇛ Microprocessor IO architecture  ⇛ Accessing Pi GPIO  ⇛ Node RED  ⇛ WiringPi                                                                     |
+| [Session&nbsp;4](../sessions/d_Session4consolidate.md) |  Consolidation                                                                    |
 | [Session&nbsp;5](../sessions/e_Session5.md) |                                                                      |
 | [Session&nbsp;6](../sessions/f_Session6.md) |                                                                      |
 | [Session&nbsp;7](../sessions/g_Session7.md) |                                                                      |
