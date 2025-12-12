@@ -6,7 +6,7 @@
 **NOTE**
 
 For each of the sessions, provide bullet point notes on what you have learnt.
-Use Markdown references and / or links to external resources you have used
+Use Markdown references and / or links to external resources you have used.
 Use  screen shots and / or code samples as appropriate.
 
 ---
