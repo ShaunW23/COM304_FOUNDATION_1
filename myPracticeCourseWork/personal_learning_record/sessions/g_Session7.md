@@ -48,4 +48,10 @@ Today around 85% of smartphones are running Linux
 
 
 ## Summary of learning
-*What did you learn through these exercises*
+- We learnt about package management and how essential it is to an OS 
+
+- We learnt how to install Apache2 webserver which carries out package management within an OS
+
+- we learnt some basic Shell commands "pwd" for example which shows the current directory
+
+- We learnt about the boot system structure of a computer which i found reaaly interesting - learning about the role of the BIOS and such 
