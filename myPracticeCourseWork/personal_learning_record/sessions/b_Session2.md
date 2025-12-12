@@ -23,7 +23,7 @@ Computer Labelled
 
 
 ## Exercises and results
-In class we looked inside three different computers and observed and located all the different components 
+In class we looked inside three different computers discussed and located all the different components 
 
 ![image alt](https://github.com/ShaunW23/COM304_FOUNDATION_1/blob/83237567e250315141c0fab15e7ebb4e1eb004ad/myPracticeCourseWork/personal_learning_record/images/IMG_4581.jpeg)
 
