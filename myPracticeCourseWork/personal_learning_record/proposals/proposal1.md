@@ -25,7 +25,7 @@
   <tr>
     <td>
       <ol>
-        <li>People have own desk and can keep personal belongings locally.</li>
+        <li>People have their own desks and can keep personal belongings locally.</li>
         <li>idea</li>
         <li>idea</li>
       </ol> 
