@@ -17,12 +17,12 @@ Use  screen shots and / or code samples as appropriate.
 | [Session&nbsp;2](../sessions/b_Session2.md) |⇛ Introduction to computer architecture  ⇛ Binary, bytes and Boolean algebra  ⇛ Looking at memory in a pi                                                                     |
 | [Session&nbsp;3](../sessions/c_Session3.md) | ⇛ Microprocessor IO architecture  ⇛ Accessing Pi GPIO  ⇛ Node RED  ⇛ WiringPi                                                                     |
 | [Session&nbsp;4](../sessions/d_Session4consolidate.md) |  Consolidation-----                                                                   |
-| [Session&nbsp;5](../sessions/e_Session5.md) |                                                                      |
-| [Session&nbsp;6](../sessions/f_Session6.md) |                                                                      |
-| [Session&nbsp;7](../sessions/g_Session7.md) |                                                                      |
+| [Session&nbsp;5](../sessions/e_Session5.md) | ⇛ Introduction to computer languages  ⇛ Assembler  ⇛ C language                                                                      |
+| [Session&nbsp;6](../sessions/f_Session6.md) | ⇛ Introduction to operating systems  ⇛ Virtual Memory  ⇛ Interrupts and Scheduling                                                                     |
+| [Session&nbsp;7](../sessions/g_Session7.md) | ⇛ History of Linux  ⇛ Kernel and user code  ⇛ Package management  ⇛ Basic commands  ⇛ Installing Apache2 web server                                                                     |
 | [Session&nbsp;8](../sessions/h_session8consolidate.md) | Consolidation-----                                                                                                                                         
-| [Session&nbsp;9](../sessions/i_Session9.md) |                                                                      |
-| [Session&nbsp;10](../sessions/j_Session10.md) |                                                                    |
+| [Session&nbsp;9](../sessions/i_Session9.md) | ⇛ Introduction to networking  ⇛ Using networking utilities on Linux                                                                      
+| [Session&nbsp;10](../sessions/j_Session10.md) | ⇛ Internet history  ⇛ Introduction to the cloud                                                                   |
 | [Session&nbsp;11](../sessions/k_Session11consolidate.md) | Consolidation-----                                                                                                                                       
 | [Session&nbsp;12](../sessions/l_Session12consolidate.md) | Consolidation-----                                                                                                                                      
 |                                             |                                                                    |
