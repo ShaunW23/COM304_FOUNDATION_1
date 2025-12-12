@@ -23,6 +23,6 @@ Use  screen shots and / or code samples as appropriate.
 | [Session&nbsp;8](../sessions/h_session8consolidate.md) |                                                                      |
 | [Session&nbsp;9](../sessions/i_Session9.md) |                                                                      |
 | [Session&nbsp;10](../sessions/j_Session10.md) |                                                                    |
-| [Session&nbsp;11](../sessions/k_Session11consolidate.md) |                                                                    |
-| [Session&nbsp;12](../sessions/l_Session12consolidate.md) |                                                                    |
+| [Session&nbsp;11](../sessions/k_Session11consolidate.md) | Consolidation-----                                                                                                                                       
+| [Session&nbsp;12](../sessions/l_Session12consolidate.md) | Consolidation-----                                                                                                                                      
 |                                             |                                                                    |
