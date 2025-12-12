@@ -20,7 +20,7 @@ Use  screen shots and / or code samples as appropriate.
 | [Session&nbsp;5](../sessions/e_Session5.md) |                                                                      |
 | [Session&nbsp;6](../sessions/f_Session6.md) |                                                                      |
 | [Session&nbsp;7](../sessions/g_Session7.md) |                                                                      |
-| [Session&nbsp;8](../sessions/h_session8consolidate.md) |                                                                      |
+| [Session&nbsp;8](../sessions/h_session8consolidate.md) | Consolidation-----                                                                                                                                         
 | [Session&nbsp;9](../sessions/i_Session9.md) |                                                                      |
 | [Session&nbsp;10](../sessions/j_Session10.md) |                                                                    |
 | [Session&nbsp;11](../sessions/k_Session11consolidate.md) | Consolidation-----                                                                                                                                       
