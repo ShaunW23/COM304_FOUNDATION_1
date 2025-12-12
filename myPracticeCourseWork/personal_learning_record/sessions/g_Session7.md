@@ -16,7 +16,9 @@
 
 
 ## Personal Notes and research following this session
-*Which class sessions and personal research refers to technology in this proposal. Link to examples.*
+[A page overview of the history of Linux](https://linuxsimply.com/linux-basics/introduction/history-of-linux/)
+
+[Orgin story of Linux and its widespread adoption thoughtout the years across different industries](https://thelinuxcode.com/history-of-linux/)
 
 
 
