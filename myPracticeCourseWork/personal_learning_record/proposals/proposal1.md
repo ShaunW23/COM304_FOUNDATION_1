@@ -39,8 +39,8 @@ They want to cut costs by doing things like having less employees in the office 
     <td>
       <ol>
         <li>It encourages more interactions and boosts collaberation between employees as there is no assigned sitting meaning they can work in a variety of spaces and meet a wider range of fellow employees.</li>
-        <li>offers employees flexibility on where can work. offering a change of scenery if that want. </li>
-        <li> Can Cut costs </li>
+        <li>offers employees flexibility on where they can work. offering a change of scenery if that want. </li>
+        <li> Can actually reduce costs of the long term.</li>
       </ol> 
     </td>
     <td>
