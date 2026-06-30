@@ -5,14 +5,22 @@
 ## Explanation of this proposal
 *What do you think this proposal might mean? How might it be implemented?*
 
+Hotdesking is the system where no employee has an assigned personal workspace instead spaces are open to all employees meaning they have the choice of working at multiple locations not just the one 
+
+The council might want to optimise how the space in the office is being used, having no fixed workspaces means some spaces can be used for other uses. 
+The council might want more collaberation between departments 
+
+
+
+
+## Technologies and research relevant to this proposal
+*Which class sessions and personal research refers to technology in this proposal. Link to examples.*
 [What is Hot Desking — and How Can You Implement It? Accurent accessed 2025 ](https://www.accruent.com/resources/knowledge-hub/what-is-hot-desking)
 
 [Nguyen, N.N., Varsani, K.V., Avgoulas, M.I., Carey, C., Drakopoulos, T. and Carey, L., 2024. The Effects of ‘Hot-desking’on Staff Morale: An Exploratory Literature Scoping Review.](https://opal.latrobe.edu.au/articles/report/The_Effects_of_Hot-desking_on_Staff_Morale_An_Exploratory_Literature_Scoping_Review/26877511/2/files/48895486.pdf)
 
 [potential Advantages of Hotdesking](https://www.wework.com/ideas/workspace-solutions/flexible-products/what-is-hot-desking)
 
-## Technologies and research relevant to this proposal
-*Which class sessions and personal research refers to technology in this proposal. Link to examples.*
 
 ## Initial Analysis of the Proposal
 *Use some simple analysis tools to help you think through whether the proposal is a good idea*
