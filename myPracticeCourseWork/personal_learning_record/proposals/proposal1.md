@@ -27,7 +27,7 @@
   <tr>
     <td>
       <ol>
-        <li>People have their own desks and can keep personal belongings locally.</li>
+        <li>It encourages more interactions and boosts collaberation between employees as there is no assigned sitting meaning they can work in a variety of spaces and meet a wider range of fellow employees.</li>
         <li>idea</li>
         <li>idea</li>
       </ol> 
