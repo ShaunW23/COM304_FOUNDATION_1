@@ -34,7 +34,7 @@
     </td>
     <td>
       <ol>
-        <li>idea</li>
+        <li>More </li>
         <li>idea</li>
         <li>idea</li>
       </ol> 
