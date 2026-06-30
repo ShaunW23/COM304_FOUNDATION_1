@@ -34,7 +34,7 @@
     </td>
     <td>
       <ol>
-        <li>More </li>
+        <li>On social media the vast majority dislike the idea of the hotdesking with many saying it removes the personlised aspect of  workspaces due to the constant workspace change arounds Many view it has an overall inconvenience as there is a longer set up time compared to assigned desks eg adjusting chair, pluggind in a dock and learning where facilities arel ike the toilets and kitchen. Also cleanliness has been mentioned, employees share workplaces and equipment like keyboards and mice which some say doesn't feel right because the accumulation of different peoples dirt and mess    </li>
         <li>idea</li>
         <li>idea</li>
       </ol> 
