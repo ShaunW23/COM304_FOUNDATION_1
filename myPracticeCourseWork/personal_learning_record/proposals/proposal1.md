@@ -112,6 +112,8 @@
 *Without knowing how exactly the council will implement this proposal, what questions should be raised?*
 
 * question 1
+  Will the introduction of this system actually have any benefit over the existing one? Will it increase effiency? employee satisfaction?
+  
 * question 2
 
 ## Evaluation of the proposal
