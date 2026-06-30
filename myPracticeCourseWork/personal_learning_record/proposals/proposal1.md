@@ -28,6 +28,8 @@ They want to cut costs by reducing the amount of office PCs which require mainte
 
 [The Effects of ‘Hot-desking’ on Staff Morale](https://opal.latrobe.edu.au/articles/report/The_Effects_of_Hot-desking_on_Staff_Morale_An_Exploratory_Literature_Scoping_Review/26877511?file=48895486)
 
+[Potential risks - Hotdesking](https://hrnews.co.uk/burned-by-hot-desking-the-legal-risks-every-uk-employer-should-know/)
+
 
 ## Initial Analysis of the Proposal
 *Use some simple analysis tools to help you think through whether the proposal is a good idea*
@@ -69,9 +71,9 @@ They want to cut costs by reducing the amount of office PCs which require mainte
     </td>
     <td>
       <ol>
-        <li> With the rising concerns of mental health and wellbeing in the workplace can have an affect on collaberation  amoung employees</li>
+        <li> With the rising concerns of mental health and wellbeing in the workplace it can have an affect on collaberation  amoung employees</li>
         <li>on social media and online forums the Hotdesking system is widely hated by employees across many organisations because of its inconvenience</li>
-        <li>idea</li>
+        <li>The adoption of Hotdesking have left some organisations worse off due improper planning and implementation</li>
       </ol> 
     </td>
   </tr>
@@ -129,8 +131,10 @@ They want to cut costs by reducing the amount of office PCs which require mainte
 * question 1 -
 Will the introduction of this system actually have any benefit over the existing one? Will it increase efficiency? employee satisfaction?
   
-* question 2
+* question 2 -
+Could there be any issues that could arise from the long-term adoption of this? How can they be avoided.
 
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*
+From what ive gathered from my research, Hotdesking can greatly benefit a organisation. However, implementing without a carefully curated plan can i have a negative domino effect throughout the organisation operations.
 
