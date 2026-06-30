@@ -132,7 +132,7 @@ They want to cut costs by reducing the amount of office PCs which require mainte
 Will the introduction of this system actually have any benefit over the existing one? Will it increase efficiency? employee satisfaction?
   
 * question 2 -
-Could there be any issues that could arise from the long-term adoption of this? How can they be avoided.
+Could there be any issues that could arise from the long-term adoption of this? How can they be avoided?
 
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*
