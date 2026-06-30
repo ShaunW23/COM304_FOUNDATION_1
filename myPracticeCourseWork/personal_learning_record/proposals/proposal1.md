@@ -136,5 +136,6 @@ Could there be any issues that could arise from the long-term adoption of this? 
 
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*
-From what ive gathered from my research, Hotdesking can greatly benefit a organisation. However, implementing without a carefully curated plan can i have a negative domino effect throughout the organisation operations.
+
+From what ive gathered from my research, Hotdesking can greatly benefit a organisation. However, implementing without a carefully curated plan can have a negative domino effect throughout the organisation operations.
 
