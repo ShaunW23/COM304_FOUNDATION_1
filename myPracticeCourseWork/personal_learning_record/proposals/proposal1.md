@@ -24,6 +24,10 @@ They want to cut costs by reducing the amount of office PCs which require mainte
 
 [potential Advantages of Hotdesking](https://www.wework.com/ideas/workspace-solutions/flexible-products/what-is-hot-desking)
 
+[The reality of hotdesking for employees](https://theconversation.com/the-research-on-hot-desking-and-activity-based-work-isnt-so-positive-75612)
+
+[The Effects of ‘Hot-desking’ on Staff Morale](https://opal.latrobe.edu.au/articles/report/The_Effects_of_Hot-desking_on_Staff_Morale_An_Exploratory_Literature_Scoping_Review/26877511?file=48895486)
+
 
 ## Initial Analysis of the Proposal
 *Use some simple analysis tools to help you think through whether the proposal is a good idea*
@@ -58,9 +62,9 @@ They want to cut costs by reducing the amount of office PCs which require mainte
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>many organisations have moved towards a hotdesking system and have seen success</li>
+        <li>There are good tried and tested hotdesking software available</li>
+        <li>with the implementation of hotdesking it can make way for the improvement of facilities in the office</li>
       </ol> 
     </td>
     <td>
