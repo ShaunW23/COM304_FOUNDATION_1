@@ -34,8 +34,8 @@
     </td>
     <td>
       <ol>
-        <li>On social media the vast majority dislike the idea of the hotdesking with many saying it removes the personlised aspect of  workspaces due to the constant workspace change arounds Many view it has an overall inconvenience as there is a longer set up time compared to assigned desks eg adjusting chair, pluggind in a dock and learning where facilities arel ike the toilets and kitchen. Also cleanliness has been mentioned, employees share workplaces and equipment like keyboards and mice which some say doesn't feel right because the accumulation of different peoples dirt and mess    </li>
-        <li>idea</li>
+        <li>On social media the vast majority dislike the idea of the hotdesking with many saying it removes the personlised aspect of  workspaces due to the constant workspace change arounds Many view it has an overall inconvenience as there is a longer set up time compared to assigned desks eg adjusting chair, pluggind in a dock and learning where facilities arel ike the toilets and kitchen. Also cleanliness has been mentioned, employees share workplaces and equipment like keyboards and mice which some say doesn't feel right because the accumulation of different peoples dirt and mess potentially affect workflow    </li>
+        <li>Having to book in advance can be seen as a weakness because employees need to go through the process of logging into the software and having to find a free workspace which adds to the set up needed and theres also the possibility of the software not working properly for example allowing employees to book a space which is already booked or even the software not working at all</li>
         <li>idea</li>
       </ol> 
     </td>
