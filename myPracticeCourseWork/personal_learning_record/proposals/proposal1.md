@@ -8,7 +8,10 @@
 Hotdesking is the system where no employee has an assigned personal workspace instead spaces are open to all employees meaning they have the choice of working at multiple locations not just the one 
 
 The council might want to optimise how the space in the office is being used, having no fixed workspaces means some spaces can be used for other uses. 
+
 The council might want more collaberation between departments 
+
+They want to cut costs by doing things like having less employees in the office by providing more hybrid work or reducing the amount of office PCs it will then reduce maintenance of the computers. 
 
 
 
