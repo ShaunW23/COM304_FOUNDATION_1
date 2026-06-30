@@ -11,7 +11,7 @@ The council might want to optimise how the space in the office is being used, ha
 
 The council might want more collaberation between departments 
 
-They want to cut costs by doing things like having less employees in the office by providing more hybrid work or reducing the amount of office PCs which then reduces maintenance of the computers. 
+They want to cut costs by reducing the amount of office PCs which require maintenance 
 
 
 
