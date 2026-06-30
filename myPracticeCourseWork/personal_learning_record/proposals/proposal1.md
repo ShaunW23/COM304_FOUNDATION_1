@@ -69,8 +69,8 @@ They want to cut costs by reducing the amount of office PCs which require mainte
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
+        <li> With the rising concerns of mental health and wellbeing in the workplace can have an affect on collaberation  amoung employees</li>
+        <li>on social media and online forums the Hotdesking system is widely hated by employees across many organisations because of its inconvenience</li>
         <li>idea</li>
       </ol> 
     </td>
