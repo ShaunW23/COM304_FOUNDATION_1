@@ -6,7 +6,7 @@
 ## Explanation of this proposal
 *What do you think this proposal might mean? How might it be implemented?*
 
-I think this proposal wants to give employees more flexibilty by allowing employees to connect to the organisations servers from home using a VPN which has greater upsides than just making it seem like they're in the office, VPNs encrypt data making it resilience from interference whereas connecting directly to the organisations servers can be unsecure and exposed to malicous interception from a threat actor(Man in the Middle attack).
+I think this proposal wants to give employees more flexibilty by allowing employees to connect to the organisations servers from home using a VPN which has greater upsides than just making it seem like they're in the office, VPNs encrypt data making it invulnerable from interference whereas connecting directly to the organisations servers can be unsecure and exposed to malicous interception from a threat actor(Man in the Middle attack).
 
 
 
@@ -76,8 +76,7 @@ I think this proposal wants to give employees more flexibilty by allowing employ
       <ol>
         <li>Many VPNs are difficult to scale for a large number of remote workers</li>
         <li>Majority of people have very limited computer knowledge so they might not understand why certain things are done, or understand how they work</li>
-        <li>VPNs are widely targeted by threast a
-      </li>
+        <li>VPNs are widely targeted by threat actors and cyberattacks because of the concentration of sensitive data going through them</li>
       </ol> 
     </td>
   </tr>
@@ -141,3 +140,4 @@ Do the councillors know what a VPN is and why its important? Will they know how 
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*
 
+Overall I think VPNs in a business and remote worker environment is essential with upsides heavily outweighing the downsides, yes they do lower internet speeds but with this they ensure data is being kept safe and contained. And with cetain VPNs being difficult to scale, there are definitely VPN providers that are now working on protocols and technology to improve the scalability of thier VPNs  
