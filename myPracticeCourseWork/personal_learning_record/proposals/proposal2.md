@@ -48,7 +48,7 @@ Having software on the cloud means better access to data being able to access th
       <ol>
         <li>if the council or the cloud provider encounter weak internet connection this could result in downtime and halt operations</li>
         <li> Data retrieval is slower than having it on on-premises servers</li>
-        <li>idea</li>
+        <li> They're relying entirely on the provider to properly manage their data so theres limited control</li>
       </ol> 
     </td>
   </tr>
