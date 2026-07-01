@@ -4,9 +4,12 @@
 
 ## Explanation of this proposal
 *What do you think this proposal might mean? How might it be implemented?*
+they want to move the software from their own on-premises server and delegate it to another company's servers(cloud service provider)
+Having software on the cloud 
 
 ## Technologies and research relevant to this proposal
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
+[Cloud migration process](https://www.oracle.com/cloud/cloud-migration/) 
 
 ## Initial Analysis of the Proposal
 *Use some simple analysis tools to help you think through whether the proposal is a good idea*
