@@ -15,6 +15,12 @@ Having software on the cloud means better access to data being able to access th
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
 [Cloud migration process](https://www.oracle.com/cloud/cloud-migration/) 
 
+[Cloud disadvantages](https://www.gotechtor.com/disadvantages-of-cloud-storage/)
+
+[more cloud downsides](https://cortavo.com/cortavo-blogs/what-is-a-disadvantage-of-using-the-cloud-for-data-storage)
+
+[pros and pons of the cloud](https://www.businesstechweekly.com/operational-efficiency/cloud-computing/pros-and-cons-of-cloud-storage/)
+
 ## Initial Analysis of the Proposal
 *Use some simple analysis tools to help you think through whether the proposal is a good idea*
 
@@ -30,13 +36,13 @@ Having software on the cloud means better access to data being able to access th
       <ol>
         <li>Cloud infrastructure can be scaled up quckly</li>
         <li>Cloud service providers keep their hardware up to date, having access to the latest hardware which greatly supasses the technology organisation's server room have</li>
-        <li>Often cheaper than having to manage and maintain on-premises servers. Software is alot safer from potential disasters that could happen in the server rooms like, floods fires or power cuts</li>
+        <li>Often cheaper than having to manage and maintain on-premises servers. Software and data is alot safer from potential disasters that could happen in the server rooms like, floods fires or power cuts</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
+        <li>if the council or the cloud provider encounter weak internet connection this could result in downtime and halt operations</li>
+        <li> Data retrieval is slower than having it on on-premises servers</li>
         <li>idea</li>
       </ol> 
     </td>
@@ -48,15 +54,15 @@ Having software on the cloud means better access to data being able to access th
   <tr>
     <td>
       <ol>
-        <li>idea</li>
+        <li> Cloud is becoming the norm and is often better</li>
         <li>idea</li>
         <li>idea</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
+        <li>A sharp increase of cyber attacks with a good portion of them being cloud servers </li>
+        <li>With the increasing cost of hardware, subscription costs will rise </li>
         <li>idea</li>
       </ol> 
     </td>
@@ -112,8 +118,11 @@ Having software on the cloud means better access to data being able to access th
 ## Questions to ask about the proposal
 *Without knowing how exactly the council will implement this proposal, what questions should be raised?*
 
-* question 1
-* question 2
+* question 1 -
+ What cloud service providers do they have in mind?
+
+* question 2 -
+If something were to happen where the council lost access to the data on the cloud, which could happen for any reason, like a poor internet connection. Will they have anything in place to increase redundancy?
 
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*
