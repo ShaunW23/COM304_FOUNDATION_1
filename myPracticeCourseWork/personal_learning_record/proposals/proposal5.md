@@ -8,6 +8,12 @@
 ## Technologies and research relevant to this proposal
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
 
+[open-source software vs proprietary software](https://www.geeksforgeeks.org/software-engineering/difference-between-open-source-software-and-proprietary-software/)
+
+[information about open-source software and proprietary software](https://www.techtimes.com/articles/316162/20260427/open-source-vs-proprietary-software-key-differences-pros-cons-which-one-choose.htm)
+
+[Dev community](https://dev.to/codingcrafts/open-source-vs-proprietary-software-pro-cons-49d0)
+
 ## Initial Analysis of the Proposal
 *Use some simple analysis tools to help you think through whether the proposal is a good idea*
 
