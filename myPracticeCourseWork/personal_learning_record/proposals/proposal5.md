@@ -27,16 +27,16 @@
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Allows organisations to modify the code to best suited for their needs </li>
+        <li>offers transparency </li>
         <li>idea</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li> Can encounter compatibility issues when other software</li>
+        <li>More vulnerable to security threats due to the fact that threat actors can view the code and can discover codes errors vulnerabilities</li>
+        <li>doesnt the same level of support as proprietary software </li>
       </ol> 
     </td>
   </tr>
@@ -111,8 +111,11 @@
 ## Questions to ask about the proposal
 *Without knowing how exactly the council will implement this proposal, what questions should be raised?*
 
-* question 1
-* question 2
+* question 1 -
+Who are the main contributors to the code? are they trustworthy?
+* question 2 -
+How compatible is the software that are going to be implemented? Will it be able to work properly with other software 
+
 
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*
