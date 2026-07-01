@@ -131,5 +131,6 @@ If something were to happen where the council lost access to the data on the clo
 
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*
+
 I think this proposal is very important and the most needed in an organisation like the council because it will offer greater protection from things like cyber attacks, Cloud companies are well equiped to prevent and defend against these attacks. They have sophisticated procedures and personell in place to stop these attack, which are better then the council's smaller IT team. Poor internet connection shouldnt be too big of a concern as this is discovered quickly and can sorted out, whether thats the council's IT team or on the cloud providers end. 
 
